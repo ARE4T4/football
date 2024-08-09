@@ -1,0 +1,14 @@
+.add{
+    background-color:chocolate;
+    width: 150px;
+    height: 70px;
+}
+.add{
+    background-color: rgb(77, 196, 196);
+    width: 260px;
+    height: 200px;
+border-radius: 20px;
+}
+#results{
+    width: 110px;
+}
